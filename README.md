@@ -16,10 +16,10 @@ The python implementation is the bigger of the two:
 
 ## dependencies:
 
-requests
-json
-base64
-datetime
+* requests
+* json
+* base64
+* datetime
 
 See the main.py file in the python folder for usage
 
