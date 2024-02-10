@@ -38,3 +38,7 @@ The C++ implementation is very small and simple
 * base64 encoder: https://github.com/ReneNyffenegger/cpp-base64
 
 see the main.cpp file in the c++/source folder for usage
+
+# Notice
+
+I am not affiliated with Untis GmbH. Use this at your own risk.
